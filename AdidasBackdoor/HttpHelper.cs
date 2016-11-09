@@ -13,7 +13,7 @@ namespace AdidasBackdoor
 {
     class HttpHelper
     {
-        private const string ClientKey = "ee54cd5d0c8f390b59efad16a94c12ae";
+        private const string ClientKey = "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE";
         
         private async Task<string> GetRequest(string captchaId)
         {
